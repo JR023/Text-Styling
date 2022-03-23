@@ -1,0 +1,23 @@
+.My{
+    color: white;
+    font-weight: bold;
+}
+.Cloud{
+    color: cyan;
+    font-weight: bold;
+}
+h1{
+    background-color:black
+}
+h2{
+    background: mediumslateblue;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-family: sans-serif;
+    color: rgb(8, 8, 102);
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightskyblue;
+}
